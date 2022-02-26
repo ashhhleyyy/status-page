@@ -4,27 +4,29 @@
     "url": "https://nucleoid.xyz/",
     "icon": "https://favicons.githubusercontent.com/nucleoid.xyz",
     "slug": "nucleoid-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 688,
     "timeDay": 874,
     "timeWeek": 688,
     "timeMonth": 688,
     "timeYear": 688,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-26": 1
+    }
   },
   {
     "name": "Nucleoid API",
     "url": "https://api.nucleoid.xyz/stats/stats",
     "icon": "https://favicons.githubusercontent.com/api.nucleoid.xyz",
     "slug": "nucleoid-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 3046,
     "timeMonth": 3046,
     "timeYear": 3046,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-26": 0
+    }
   },
   {
     "name": "Nucleoid Minecraft server",
