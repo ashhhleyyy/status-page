@@ -4,9 +4,9 @@
     "url": "https://nucleoid.xyz/",
     "icon": "https://favicons.githubusercontent.com/nucleoid.xyz",
     "slug": "nucleoid-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
@@ -16,6 +16,7 @@
     "timeMonth": 760,
     "timeYear": 760,
     "dailyMinutesDown": {
+      "2022-03-14": 1,
       "2022-03-08": 14,
       "2022-02-26": 13
     }
@@ -25,18 +26,19 @@
     "url": "https://api.nucleoid.xyz/stats/stats",
     "icon": "https://favicons.githubusercontent.com/api.nucleoid.xyz",
     "slug": "nucleoid-api",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 874,
     "timeDay": 498,
     "timeWeek": 525,
     "timeMonth": 874,
     "timeYear": 874,
     "dailyMinutesDown": {
+      "2022-03-14": 0,
       "2022-03-08": 13,
       "2022-02-26": 13
     }
