@@ -9,6 +9,12 @@ sites:
     url: https://nucleoid.xyz/
   - name: Nucleoid API
     url: https://api.nucleoid.xyz/stats/stats
+  - name: Gitea
+    url: https://git.ashhhleyyy.dev/
+  - name: SSO
+    url: https://id.ashhhleyyy.dev/
+  - name: Home Assistant
+    url: https://ha.ashhhleyyy.dev/
   - name: Nucleoid Minecraft server
     check: tcp-ping
     url: nucleoid.xyz
@@ -18,15 +24,17 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.ashhhleyyy.dev
-  logoUrl: https://ashhhleyyy.dev/assets/pfp.4ae1f7bd.png
+  logoUrl: https://assets.ashhhleyyy.dev/pfp/pfp3.png
   name: Ashhhleyyy - Status
   introTitle: "Ashhhleyyy's status page"
   introMessage: I have several status monitors for different projects I've contributed to, mainly [NucleoidMC](https://nucleoidmc.xyz).
   navbar:
     - title: Status
       href: /
+    - title: Home
+      href: https://ashhhleyyy.dev/
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER/$REPO/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
