@@ -11,6 +11,8 @@ sites:
     url: https://api.nucleoid.xyz/stats/stats
   - name: Gitea
     url: https://git.ashhhleyyy.dev/
+  - name: Maven
+    url: https://maven.ashhhleyyy.dev/
   - name: SSO
     url: https://id.ashhhleyyy.dev/
   - name: Home Assistant
