@@ -71,10 +71,10 @@
     "url": "https://nucleoid.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/nucleoid.xyz.ico",
     "slug": "nucleoid-website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "70.31%",
-    "uptimeWeek": "84.19%",
+    "uptimeDay": "70.68%",
+    "uptimeWeek": "84.18%",
     "uptimeMonth": "96.36%",
     "uptimeYear": "98.93%",
     "time": 1088,
@@ -83,7 +83,7 @@
     "timeMonth": 2063,
     "timeYear": 1088,
     "dailyMinutesDown": {
-      "2022-11-11": 124,
+      "2022-11-11": 125,
       "2022-11-10": 562,
       "2022-11-09": 758,
       "2022-11-08": 150,
@@ -130,8 +130,7 @@
       "2022-03-30": 12,
       "2022-03-29": 14,
       "2022-03-23": 15,
-      "2022-03-17": 30,
-      "2022-03-14": 32
+      "2022-03-17": 30
     }
   },
   {
@@ -141,9 +140,9 @@
     "slug": "nucleoid-api",
     "status": "down",
     "uptime": "98.59%",
-    "uptimeDay": "72.74%",
-    "uptimeWeek": "86.05%",
-    "uptimeMonth": "96.79%",
+    "uptimeDay": "72.29%",
+    "uptimeWeek": "85.99%",
+    "uptimeMonth": "96.78%",
     "uptimeYear": "98.59%",
     "time": 1166,
     "timeDay": 3312,
@@ -151,7 +150,7 @@
     "timeMonth": 1721,
     "timeYear": 1166,
     "dailyMinutesDown": {
-      "2022-11-11": 83,
+      "2022-11-11": 90,
       "2022-11-10": 483,
       "2022-11-09": 706,
       "2022-11-08": 137,
