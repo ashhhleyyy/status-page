@@ -71,19 +71,19 @@
     "url": "https://nucleoid.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/nucleoid.xyz.ico",
     "slug": "nucleoid-website",
-    "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "68.34%",
-    "uptimeWeek": "78.75%",
+    "status": "down",
+    "uptime": "98.84%",
+    "uptimeDay": "68.28%",
+    "uptimeWeek": "78.74%",
     "uptimeMonth": "95.11%",
-    "uptimeYear": "98.83%",
+    "uptimeYear": "98.84%",
     "time": 1133,
     "timeDay": 2838,
     "timeWeek": 2897,
     "timeMonth": 2167,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2022-11-12": 210,
+      "2022-11-12": 211,
       "2022-11-11": 463,
       "2022-11-10": 562,
       "2022-11-09": 758,
@@ -123,8 +123,7 @@
       "2022-04-25": 24,
       "2022-04-24": 5,
       "2022-04-21": 36,
-      "2022-04-18": 8,
-      "2022-04-17": 18
+      "2022-04-18": 8
     }
   },
   {
@@ -132,12 +131,12 @@
     "url": "https://api.nucleoid.xyz/stats/stats",
     "icon": "https://icons.duckduckgo.com/ip3/api.nucleoid.xyz.ico",
     "slug": "nucleoid-api",
-    "status": "up",
-    "uptime": "98.48%",
-    "uptimeDay": "70.81%",
+    "status": "down",
+    "uptime": "98.49%",
+    "uptimeDay": "70.79%",
     "uptimeWeek": "80.91%",
     "uptimeMonth": "95.61%",
-    "uptimeYear": "98.48%",
+    "uptimeYear": "98.49%",
     "time": 1206,
     "timeDay": 2841,
     "timeWeek": 2601,
@@ -187,8 +186,7 @@
       "2022-04-02": 29,
       "2022-03-30": 12,
       "2022-03-29": 14,
-      "2022-03-23": 14,
-      "2022-03-17": 17
+      "2022-03-23": 14
     }
   },
   {
