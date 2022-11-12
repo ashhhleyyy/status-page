@@ -71,19 +71,19 @@
     "url": "https://nucleoid.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/nucleoid.xyz.ico",
     "slug": "nucleoid-website",
-    "status": "up",
-    "uptime": "98.85%",
-    "uptimeDay": "68.80%",
-    "uptimeWeek": "79.73%",
-    "uptimeMonth": "95.34%",
-    "uptimeYear": "98.85%",
+    "status": "down",
+    "uptime": "98.86%",
+    "uptimeDay": "69.80%",
+    "uptimeWeek": "79.72%",
+    "uptimeMonth": "95.33%",
+    "uptimeYear": "98.86%",
     "time": 1135,
     "timeDay": 2848,
     "timeWeek": 2943,
     "timeMonth": 2188,
     "timeYear": 1135,
     "dailyMinutesDown": {
-      "2022-11-12": 111,
+      "2022-11-12": 112,
       "2022-11-11": 463,
       "2022-11-10": 562,
       "2022-11-09": 758,
@@ -124,8 +124,7 @@
       "2022-04-24": 5,
       "2022-04-21": 36,
       "2022-04-18": 8,
-      "2022-04-17": 18,
-      "2022-04-16": 19
+      "2022-04-17": 18
     }
   },
   {
@@ -133,9 +132,9 @@
     "url": "https://api.nucleoid.xyz/stats/stats",
     "icon": "https://icons.duckduckgo.com/ip3/api.nucleoid.xyz.ico",
     "slug": "nucleoid-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.50%",
-    "uptimeDay": "70.62%",
+    "uptimeDay": "71.68%",
     "uptimeWeek": "81.79%",
     "uptimeMonth": "95.81%",
     "uptimeYear": "98.50%",
@@ -189,7 +188,7 @@
       "2022-03-30": 12,
       "2022-03-29": 14,
       "2022-03-23": 14,
-      "2022-03-17": 35
+      "2022-03-17": 17
     }
   },
   {
@@ -321,7 +320,7 @@
     "slug": "nucleoid-minecraft-server",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "89.72%",
+    "uptimeDay": "90.33%",
     "uptimeWeek": "93.46%",
     "uptimeMonth": "98.49%",
     "uptimeYear": "99.55%",
