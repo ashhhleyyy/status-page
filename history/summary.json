@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ashhhleyyy.dev.ico",
     "slug": "website-ashhhleyyy-dev",
     "status": "up",
-    "uptime": "95.66%",
-    "uptimeDay": "26.70%",
+    "uptime": "95.67%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "57.17%",
     "uptimeMonth": "90.14%",
-    "uptimeYear": "93.84%",
+    "uptimeYear": "93.89%",
     "time": 791,
-    "timeDay": 477,
-    "timeWeek": 446,
-    "timeMonth": 510,
-    "timeYear": 814,
+    "timeDay": 583,
+    "timeWeek": 442,
+    "timeMonth": 516,
+    "timeYear": 815,
     "dailyMinutesDown": {
       "2023-11-09": 1093,
       "2023-11-08": 1440,
@@ -79,8 +79,7 @@
       "2022-12-08": 387,
       "2022-12-03": 284,
       "2022-11-20": 470,
-      "2022-11-16": 15,
-      "2022-11-11": 413
+      "2022-11-16": 15
     }
   },
   {
@@ -93,20 +92,19 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.67%",
+    "uptimeYear": "99.78%",
     "time": 870,
-    "timeDay": 511,
-    "timeWeek": 606,
-    "timeMonth": 610,
-    "timeYear": 830,
+    "timeDay": 830,
+    "timeWeek": 614,
+    "timeMonth": 621,
+    "timeYear": 732,
     "dailyMinutesDown": {
       "2023-01-25": 9,
       "2023-01-01": 7,
       "2022-12-29": 11,
       "2022-12-28": 16,
       "2022-12-24": 12,
-      "2022-11-12": 650,
-      "2022-11-11": 463
+      "2022-11-12": 650
     }
   },
   {
@@ -115,21 +113,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.nucleoid.xyz.ico",
     "slug": "nucleoid-api",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "99.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.70%",
-    "time": 675,
-    "timeDay": 328,
-    "timeWeek": 1053,
-    "timeMonth": 706,
-    "timeYear": 615,
+    "uptimeYear": "99.79%",
+    "time": 685,
+    "timeDay": 531,
+    "timeWeek": 1059,
+    "timeMonth": 714,
+    "timeYear": 549,
     "dailyMinutesDown": {
       "2023-01-25": 8,
       "2023-01-03": 33,
-      "2022-11-12": 655,
-      "2022-11-11": 400
+      "2022-11-12": 655
     }
   },
   {
@@ -138,16 +135,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.ashhhleyyy.dev.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "91.80%",
-    "uptimeDay": "27.69%",
+    "uptime": "91.82%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "57.31%",
     "uptimeMonth": "90.18%",
-    "uptimeYear": "93.45%",
+    "uptimeYear": "93.50%",
     "time": 906,
-    "timeDay": 432,
-    "timeWeek": 453,
-    "timeMonth": 614,
-    "timeYear": 935,
+    "timeDay": 643,
+    "timeWeek": 465,
+    "timeMonth": 621,
+    "timeYear": 936,
     "dailyMinutesDown": {
       "2023-11-09": 1078,
       "2023-11-08": 1440,
@@ -216,8 +213,7 @@
       "2022-12-22": 401,
       "2022-12-08": 385,
       "2022-12-03": 282,
-      "2022-11-20": 468,
-      "2022-11-11": 412
+      "2022-11-20": 468
     }
   },
   {
@@ -226,16 +222,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maven.ashhhleyyy.dev.ico",
     "slug": "maven",
     "status": "up",
-    "uptime": "67.83%",
-    "uptimeDay": "27.69%",
+    "uptime": "67.91%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "57.31%",
     "uptimeMonth": "90.18%",
-    "uptimeYear": "66.46%",
+    "uptimeYear": "66.51%",
     "time": 571,
-    "timeDay": 462,
-    "timeWeek": 404,
-    "timeMonth": 418,
-    "timeYear": 574,
+    "timeDay": 559,
+    "timeWeek": 418,
+    "timeMonth": 426,
+    "timeYear": 575,
     "dailyMinutesDown": {
       "2023-11-09": 1079,
       "2023-11-08": 1440,
@@ -384,8 +380,7 @@
       "2022-12-22": 391,
       "2022-12-08": 384,
       "2022-12-03": 281,
-      "2022-11-20": 467,
-      "2022-11-11": 410
+      "2022-11-20": 467
     }
   },
   {
@@ -394,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.ashhhleyyy.dev.ico",
     "slug": "sso",
     "status": "down",
-    "uptime": "34.20%",
+    "uptime": "34.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.20%",
-    "time": 806,
-    "timeDay": 342,
-    "timeWeek": 349,
-    "timeMonth": 401,
+    "uptimeYear": "23.98%",
+    "time": 805,
+    "timeDay": 556,
+    "timeWeek": 377,
+    "timeMonth": 410,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2023-11-10": 37,
+      "2023-11-11": 37,
+      "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
@@ -693,8 +689,7 @@
       "2022-12-08": 382,
       "2022-12-03": 279,
       "2022-12-01": 222,
-      "2022-11-20": 465,
-      "2022-11-11": 517
+      "2022-11-20": 465
     }
   },
   {
@@ -703,18 +698,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ha.ashhhleyyy.dev.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "82.37%",
+    "uptime": "82.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.48%",
-    "time": 858,
-    "timeDay": 414,
-    "timeWeek": 396,
-    "timeMonth": 1263,
-    "timeYear": 813,
+    "uptimeYear": "80.25%",
+    "time": 857,
+    "timeDay": 580,
+    "timeWeek": 408,
+    "timeMonth": 1270,
+    "timeYear": 776,
     "dailyMinutesDown": {
-      "2023-11-10": 37,
+      "2023-11-11": 37,
+      "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
@@ -828,8 +824,7 @@
       "2022-12-08": 381,
       "2022-12-03": 278,
       "2022-12-01": 252,
-      "2022-11-20": 464,
-      "2022-11-11": 403
+      "2022-11-20": 464
     }
   },
   {
@@ -842,16 +837,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 155,
-    "timeDay": 107,
-    "timeWeek": 127,
-    "timeMonth": 133,
-    "timeYear": 160,
+    "uptimeYear": "99.90%",
+    "time": 162,
+    "timeDay": 215,
+    "timeWeek": 135,
+    "timeMonth": 136,
+    "timeYear": 150,
     "dailyMinutesDown": {
       "2022-12-09": 6,
-      "2022-11-12": 360,
-      "2022-11-11": 159
+      "2022-11-12": 360
     }
   }
 ]
