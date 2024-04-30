@@ -274,7 +274,7 @@
     "timeMonth": 626,
     "timeYear": 447,
     "dailyMinutesDown": {
-      "2024-04-30": 1282,
+      "2024-04-30": 1288,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
@@ -658,7 +658,7 @@
     "timeMonth": 696,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2024-04-30": 1282,
+      "2024-04-30": 1288,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
@@ -915,19 +915,19 @@
     "url": "nucleoid.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nucleoid-minecraft-server",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 139,
+    "timeDay": 125,
     "timeWeek": 110,
     "timeMonth": 114,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2024-04-30": 0,
+      "2024-04-30": 6,
       "2023-11-27": 9,
       "2023-11-11": 6
     }
