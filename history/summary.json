@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.70%",
+    "uptimeYear": "95.75%",
     "time": 776,
-    "timeDay": 597,
-    "timeWeek": 509,
+    "timeDay": 384,
+    "timeWeek": 508,
     "timeMonth": 513,
-    "timeYear": 784,
+    "timeYear": 781,
     "dailyMinutesDown": {
       "2024-04-26": 793,
       "2024-04-25": 195,
@@ -49,8 +49,7 @@
       "2023-07-08": 422,
       "2023-06-27": 435,
       "2023-06-22": 30,
-      "2023-06-18": 250,
-      "2023-06-16": 144
+      "2023-06-18": 250
     }
   },
   {
@@ -64,10 +63,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 634,
-    "timeDay": 834,
-    "timeWeek": 714,
-    "timeMonth": 666,
+    "time": 633,
+    "timeDay": 482,
+    "timeWeek": 712,
+    "timeMonth": 665,
     "timeYear": 636,
     "dailyMinutesDown": {
       "2024-01-05": 5
@@ -85,8 +84,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 448,
-    "timeDay": 526,
-    "timeWeek": 457,
+    "timeDay": 331,
+    "timeWeek": 435,
     "timeMonth": 427,
     "timeYear": 449,
     "dailyMinutesDown": {
@@ -99,16 +98,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.ashhhleyyy.dev.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "94.27%",
+    "uptime": "94.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.35%",
+    "uptimeYear": "96.61%",
     "time": 874,
-    "timeDay": 682,
-    "timeWeek": 583,
-    "timeMonth": 827,
-    "timeYear": 943,
+    "timeDay": 483,
+    "timeWeek": 595,
+    "timeMonth": 829,
+    "timeYear": 944,
     "dailyMinutesDown": {
       "2024-04-26": 793,
       "2024-04-25": 195,
@@ -139,8 +138,7 @@
       "2023-07-08": 417,
       "2023-06-27": 434,
       "2023-06-22": 405,
-      "2023-06-18": 250,
-      "2023-06-16": 144
+      "2023-06-18": 250
     }
   },
   {
@@ -149,15 +147,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/maven.ashhhleyyy.dev.ico",
     "slug": "maven",
     "status": "up",
-    "uptime": "79.20%",
+    "uptime": "79.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.49%",
+    "uptimeYear": "96.75%",
     "time": 521,
-    "timeDay": 489,
-    "timeWeek": 462,
-    "timeMonth": 435,
+    "timeDay": 379,
+    "timeWeek": 468,
+    "timeMonth": 437,
     "timeYear": 513,
     "dailyMinutesDown": {
       "2024-04-26": 793,
@@ -189,8 +187,7 @@
       "2023-07-08": 417,
       "2023-06-27": 434,
       "2023-06-22": 29,
-      "2023-06-18": 250,
-      "2023-06-16": 143
+      "2023-06-18": 250
     }
   },
   {
@@ -199,18 +196,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.ashhhleyyy.dev.ico",
     "slug": "sso",
     "status": "down",
-    "uptime": "22.69%",
+    "uptime": "22.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 433,
-    "timeDay": 539,
-    "timeWeek": 440,
+    "timeDay": 362,
+    "timeWeek": 448,
     "timeMonth": 412,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2024-06-14": 41,
+      "2024-06-15": 41,
+      "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
@@ -573,8 +571,7 @@
       "2023-06-20": 1440,
       "2023-06-19": 1440,
       "2023-06-18": 1440,
-      "2023-06-17": 1440,
-      "2023-06-16": 1440
+      "2023-06-17": 1440
     }
   },
   {
@@ -583,18 +580,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ha.ashhhleyyy.dev.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "54.64%",
+    "uptime": "54.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "23.01%",
-    "time": 571,
-    "timeDay": 507,
-    "timeWeek": 473,
-    "timeMonth": 448,
-    "timeYear": 573,
+    "uptimeYear": "22.79%",
+    "time": 568,
+    "timeDay": 405,
+    "timeWeek": 484,
+    "timeMonth": 449,
+    "timeYear": 572,
     "dailyMinutesDown": {
-      "2024-06-14": 41,
+      "2024-06-15": 41,
+      "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
@@ -884,8 +882,7 @@
       "2023-07-08": 525,
       "2023-06-27": 434,
       "2023-06-22": 29,
-      "2023-06-18": 249,
-      "2023-06-16": 143
+      "2023-06-18": 249
     }
   },
   {
@@ -899,8 +896,8 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 133,
-    "timeDay": 163,
+    "time": 132,
+    "timeDay": 92,
     "timeWeek": 134,
     "timeMonth": 125,
     "timeYear": 130,
