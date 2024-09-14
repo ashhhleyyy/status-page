@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.40%",
-    "uptimeYear": "96.40%",
+    "uptimeYear": "96.67%",
     "time": 739,
-    "timeDay": 491,
-    "timeWeek": 469,
-    "timeMonth": 584,
-    "timeYear": 802,
+    "timeDay": 442,
+    "timeWeek": 470,
+    "timeMonth": 575,
+    "timeYear": 801,
     "dailyMinutesDown": {
       "2024-08-28": 839,
       "2024-08-27": 583,
@@ -42,8 +42,7 @@
       "2023-10-01": 877,
       "2023-09-30": 108,
       "2023-09-24": 15,
-      "2023-09-23": 211,
-      "2023-09-15": 934
+      "2023-09-23": 211
     }
   },
   {
@@ -58,10 +57,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 655,
-    "timeDay": 511,
-    "timeWeek": 1140,
-    "timeMonth": 922,
-    "timeYear": 661,
+    "timeDay": 598,
+    "timeWeek": 1153,
+    "timeMonth": 925,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2024-01-05": 5
     }
@@ -78,9 +77,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 451,
-    "timeDay": 312,
-    "timeWeek": 398,
-    "timeMonth": 433,
+    "timeDay": 393,
+    "timeWeek": 404,
+    "timeMonth": 435,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2024-06-26": 30,
@@ -94,16 +93,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.ashhhleyyy.dev.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "94.38%",
+    "uptime": "94.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.37%",
-    "uptimeYear": "96.35%",
+    "uptimeYear": "96.62%",
     "time": 856,
-    "timeDay": 519,
-    "timeWeek": 536,
+    "timeDay": 485,
+    "timeWeek": 531,
     "timeMonth": 675,
-    "timeYear": 976,
+    "timeYear": 975,
     "dailyMinutesDown": {
       "2024-08-28": 852,
       "2024-08-27": 582,
@@ -135,8 +134,7 @@
       "2023-10-01": 577,
       "2023-09-30": 108,
       "2023-09-24": 68,
-      "2023-09-23": 389,
-      "2023-09-15": 934
+      "2023-09-23": 389
     }
   },
   {
@@ -145,16 +143,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maven.ashhhleyyy.dev.ico",
     "slug": "maven",
     "status": "up",
-    "uptime": "81.34%",
+    "uptime": "81.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.38%",
-    "uptimeYear": "96.49%",
-    "time": 556,
-    "timeDay": 349,
-    "timeWeek": 457,
-    "timeMonth": 534,
-    "timeYear": 612,
+    "uptimeYear": "96.76%",
+    "time": 557,
+    "timeDay": 372,
+    "timeWeek": 454,
+    "timeMonth": 536,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2024-08-28": 852,
       "2024-08-27": 582,
@@ -182,8 +180,7 @@
       "2023-10-01": 577,
       "2023-09-30": 107,
       "2023-09-24": 7,
-      "2023-09-23": 197,
-      "2023-09-15": 934
+      "2023-09-23": 197
     }
   },
   {
@@ -192,18 +189,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.ashhhleyyy.dev.ico",
     "slug": "sso",
     "status": "down",
-    "uptime": "19.89%",
+    "uptime": "19.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 466,
-    "timeDay": 350,
-    "timeWeek": 419,
-    "timeMonth": 585,
+    "timeDay": 399,
+    "timeWeek": 421,
+    "timeMonth": 580,
     "timeYear": 489,
     "dailyMinutesDown": {
-      "2024-09-13": 47,
+      "2024-09-14": 46,
+      "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
@@ -566,8 +564,7 @@
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1440
+      "2023-09-16": 1440
     }
   },
   {
@@ -576,7 +573,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ha.ashhhleyyy.dev.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "47.88%",
+    "uptime": "47.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -587,7 +584,8 @@
     "timeMonth": 0,
     "timeYear": 590,
     "dailyMinutesDown": {
-      "2024-09-13": 47,
+      "2024-09-14": 46,
+      "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
@@ -950,8 +948,7 @@
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 279,
-      "2023-09-15": 1147
+      "2023-09-16": 279
     }
   },
   {
@@ -966,8 +963,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 129,
-    "timeDay": 90,
-    "timeWeek": 110,
+    "timeDay": 110,
+    "timeWeek": 113,
     "timeMonth": 118,
     "timeYear": 124,
     "dailyMinutesDown": {
