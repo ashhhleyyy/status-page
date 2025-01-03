@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.34%",
     "time": 739,
-    "timeDay": 554,
-    "timeWeek": 536,
-    "timeMonth": 486,
+    "timeDay": 610,
+    "timeWeek": 567,
+    "timeMonth": 491,
     "timeYear": 628,
     "dailyMinutesDown": {
       "2024-10-15": 19,
@@ -32,8 +32,7 @@
       "2024-04-24": 408,
       "2024-04-23": 274,
       "2024-04-22": 61,
-      "2024-03-01": 138,
-      "2024-01-04": 598
+      "2024-03-01": 138
     }
   },
   {
@@ -48,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 658,
-    "timeDay": 856,
-    "timeWeek": 743,
-    "timeMonth": 653,
-    "timeYear": 662,
+    "timeDay": 865,
+    "timeWeek": 795,
+    "timeMonth": 664,
+    "timeYear": 663,
     "dailyMinutesDown": {
       "2024-01-05": 5
     }
@@ -63,14 +62,14 @@
     "slug": "nucleoid-api",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.53%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.53%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "99.91%",
-    "time": 466,
-    "timeDay": 438,
-    "timeWeek": 464,
-    "timeMonth": 448,
+    "time": 467,
+    "timeDay": 544,
+    "timeWeek": 487,
+    "timeMonth": 453,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2025-01-01": 7,
@@ -86,15 +85,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.ashhhleyyy.dev.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "95.11%",
+    "uptime": "95.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.28%",
     "time": 876,
-    "timeDay": 769,
-    "timeWeek": 612,
-    "timeMonth": 545,
+    "timeDay": 725,
+    "timeWeek": 658,
+    "timeMonth": 555,
     "timeYear": 651,
     "dailyMinutesDown": {
       "2024-11-19": 6,
@@ -120,8 +119,7 @@
       "2024-04-24": 407,
       "2024-04-23": 327,
       "2024-04-22": 175,
-      "2024-03-01": 138,
-      "2024-01-04": 597
+      "2024-03-01": 138
     }
   },
   {
@@ -130,16 +128,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maven.ashhhleyyy.dev.ico",
     "slug": "maven",
     "status": "up",
-    "uptime": "83.93%",
+    "uptime": "83.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.37%",
     "time": 581,
-    "timeDay": 574,
-    "timeWeek": 505,
-    "timeMonth": 463,
-    "timeYear": 602,
+    "timeDay": 563,
+    "timeWeek": 537,
+    "timeMonth": 470,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2024-10-15": 19,
       "2024-10-05": 4,
@@ -158,8 +156,7 @@
       "2024-04-24": 407,
       "2024-04-23": 269,
       "2024-04-22": 149,
-      "2024-03-01": 138,
-      "2024-01-04": 597
+      "2024-03-01": 138
     }
   },
   {
@@ -168,18 +165,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.ashhhleyyy.dev.ico",
     "slug": "sso",
     "status": "down",
-    "uptime": "17.28%",
+    "uptime": "17.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 488,
-    "timeDay": 508,
-    "timeWeek": 447,
-    "timeMonth": 410,
-    "timeYear": 518,
+    "timeDay": 575,
+    "timeWeek": 483,
+    "timeMonth": 418,
+    "timeYear": 519,
     "dailyMinutesDown": {
-      "2025-01-02": 51,
+      "2025-01-03": 51,
+      "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
@@ -542,8 +540,7 @@
       "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
-      "2024-01-05": 1440,
-      "2024-01-04": 1440
+      "2024-01-05": 1440
     }
   },
   {
@@ -552,7 +549,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ha.ashhhleyyy.dev.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "41.60%",
+    "uptime": "41.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -561,9 +558,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 542,
+    "timeYear": 543,
     "dailyMinutesDown": {
-      "2025-01-02": 51,
+      "2025-01-03": 51,
+      "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
@@ -926,8 +924,7 @@
       "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
-      "2024-01-05": 1440,
-      "2024-01-04": 1440
+      "2024-01-05": 1440
     }
   },
   {
@@ -942,9 +939,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 124,
-    "timeDay": 164,
-    "timeWeek": 138,
-    "timeMonth": 119,
+    "timeDay": 163,
+    "timeWeek": 148,
+    "timeMonth": 121,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2024-10-27": 15,
