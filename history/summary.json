@@ -41,10 +41,10 @@
     "url": "https://nucleoid.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/nucleoid.xyz.ico",
     "slug": "nucleoid-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 657,
@@ -52,7 +52,9 @@
     "timeWeek": 688,
     "timeMonth": 650,
     "timeYear": 664,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-04": 2
+    }
   },
   {
     "name": "Nucleoid API",
@@ -184,7 +186,7 @@
     "timeMonth": 408,
     "timeYear": 519,
     "dailyMinutesDown": {
-      "2025-02-04": 50,
+      "2025-02-04": 74,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -568,7 +570,7 @@
     "timeMonth": 0,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2025-02-04": 50,
+      "2025-02-04": 74,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
