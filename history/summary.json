@@ -6,14 +6,14 @@
     "slug": "website-ashhhleyyy-dev",
     "status": "up",
     "uptime": "96.85%",
-    "uptimeDay": "89.72%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "22.99%",
     "uptimeMonth": "82.28%",
     "uptimeYear": "97.43%",
     "time": 740,
-    "timeDay": 483,
-    "timeWeek": 6472,
-    "timeMonth": 1869,
+    "timeDay": 568,
+    "timeWeek": 6469,
+    "timeMonth": 1874,
     "timeYear": 786,
     "dailyMinutesDown": {
       "2025-06-21": 1397,
@@ -31,8 +31,7 @@
       "2024-08-06": 124,
       "2024-07-27": 740,
       "2024-07-19": 611,
-      "2024-06-25": 812,
-      "2024-06-23": 284
+      "2024-06-25": 812
     }
   },
   {
@@ -47,9 +46,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 690,
-    "timeDay": 621,
-    "timeWeek": 649,
-    "timeMonth": 966,
+    "timeDay": 662,
+    "timeWeek": 627,
+    "timeMonth": 968,
     "timeYear": 711,
     "dailyMinutesDown": {
       "2025-06-22": 6,
@@ -70,10 +69,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.78%",
-    "time": 732,
-    "timeDay": 0,
-    "timeWeek": 444,
-    "timeMonth": 2702,
+    "time": 727,
+    "timeDay": 455,
+    "timeWeek": 429,
+    "timeMonth": 2703,
     "timeYear": 819,
     "dailyMinutesDown": {
       "2025-06-15": 11,
@@ -88,8 +87,7 @@
       "2025-01-06": 497,
       "2025-01-01": 7,
       "2024-12-31": 444,
-      "2024-06-26": 30,
-      "2024-06-23": 12
+      "2024-06-26": 30
     }
   },
   {
@@ -103,10 +101,10 @@
     "uptimeWeek": "79.83%",
     "uptimeMonth": "95.36%",
     "uptimeYear": "96.91%",
-    "time": 633,
-    "timeDay": 0,
-    "timeWeek": 536,
-    "timeMonth": 663,
+    "time": 632,
+    "timeDay": 669,
+    "timeWeek": 527,
+    "timeMonth": 669,
     "timeYear": 630,
     "dailyMinutesDown": {
       "2025-06-17": 1428,
@@ -136,8 +134,7 @@
       "2024-07-20": 7,
       "2024-07-19": 611,
       "2024-07-07": 12,
-      "2024-06-25": 811,
-      "2024-06-23": 344
+      "2024-06-25": 811
     }
   },
   {
@@ -152,10 +149,10 @@
     "uptimeMonth": "95.36%",
     "uptimeYear": "97.78%",
     "time": 623,
-    "timeDay": 0,
-    "timeWeek": 1092,
-    "timeMonth": 549,
-    "timeYear": 681,
+    "timeDay": 432,
+    "timeWeek": 1066,
+    "timeMonth": 548,
+    "timeYear": 680,
     "dailyMinutesDown": {
       "2025-06-17": 1428,
       "2025-06-16": 604,
@@ -175,8 +172,7 @@
       "2024-08-06": 123,
       "2024-07-27": 739,
       "2024-07-19": 611,
-      "2024-06-25": 805,
-      "2024-06-23": 283
+      "2024-06-25": 805
     }
   },
   {
@@ -190,13 +186,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.02%",
-    "time": 596,
-    "timeDay": 0,
-    "timeWeek": 459,
-    "timeMonth": 776,
-    "timeYear": 623,
+    "time": 595,
+    "timeDay": 516,
+    "timeWeek": 460,
+    "timeMonth": 782,
+    "timeYear": 622,
     "dailyMinutesDown": {
-      "2025-06-22": 1249,
+      "2025-06-23": 64,
+      "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -559,8 +556,7 @@
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
-      "2024-06-24": 1440,
-      "2024-06-23": 1440
+      "2024-06-24": 1440
     }
   },
   {
@@ -569,18 +565,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ha.ashhhleyyy.dev.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "34.59%",
+    "uptime": "34.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 563,
+    "time": 564,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 833,
+    "timeYear": 844,
     "dailyMinutesDown": {
-      "2025-06-22": 1249,
+      "2025-06-23": 64,
+      "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -943,8 +940,7 @@
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
-      "2024-06-24": 1440,
-      "2024-06-23": 1440
+      "2024-06-24": 1440
     }
   },
   {
@@ -959,14 +955,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 119,
-    "timeDay": 0,
-    "timeWeek": 122,
+    "timeDay": 125,
+    "timeWeek": 115,
     "timeMonth": 122,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2024-10-27": 15,
-      "2024-06-26": 30,
-      "2024-06-23": 12
+      "2024-06-26": 30
     }
   }
 ]
