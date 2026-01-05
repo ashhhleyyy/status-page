@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "87.48%",
-    "time": 1362,
-    "timeDay": 1190,
-    "timeWeek": 1020,
-    "timeMonth": 1092,
-    "timeYear": 1593,
+    "time": 1363,
+    "timeDay": 1213,
+    "timeWeek": 1086,
+    "timeMonth": 1095,
+    "timeYear": 1542,
     "dailyMinutesDown": {
       "2025-12-22": 99,
       "2025-12-19": 6,
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 700,
-    "timeDay": 547,
-    "timeWeek": 596,
-    "timeMonth": 645,
-    "timeYear": 695,
+    "time": 701,
+    "timeDay": 736,
+    "timeWeek": 622,
+    "timeMonth": 649,
+    "timeYear": 694,
     "dailyMinutesDown": {
       "2025-06-22": 6,
       "2025-06-15": 11,
@@ -113,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 732,
-    "timeDay": 370,
-    "timeWeek": 387,
-    "timeMonth": 432,
+    "timeDay": 497,
+    "timeWeek": 408,
+    "timeMonth": 434,
     "timeYear": 796,
     "dailyMinutesDown": {
       "2025-08-15": 10,
@@ -138,18 +138,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.ashhhleyyy.dev.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "83.74%",
+    "uptime": "83.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.21%",
+    "uptimeYear": "54.07%",
     "time": 605,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2026-01-04": 71,
+      "2026-01-05": 70,
+      "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
@@ -321,8 +322,7 @@
       "2025-02-18": 1440,
       "2025-02-17": 1384,
       "2025-01-19": 86,
-      "2025-01-06": 183,
-      "2025-01-05": 1440
+      "2025-01-06": 183
     }
   },
   {
@@ -331,15 +331,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/maven.ashhhleyyy.dev.ico",
     "slug": "maven",
     "status": "up",
-    "uptime": "85.57%",
+    "uptime": "85.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.10%",
+    "uptimeYear": "89.24%",
     "time": 760,
-    "timeDay": 1062,
-    "timeWeek": 1003,
-    "timeMonth": 1006,
+    "timeDay": 1018,
+    "timeWeek": 1006,
+    "timeMonth": 1001,
     "timeYear": 815,
     "dailyMinutesDown": {
       "2025-11-29": 34,
@@ -391,8 +391,7 @@
       "2025-02-21": 658,
       "2025-02-20": 441,
       "2025-01-19": 50,
-      "2025-01-06": 183,
-      "2025-01-05": 1440
+      "2025-01-06": 183
     }
   },
   {
@@ -401,18 +400,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.ashhhleyyy.dev.ico",
     "slug": "sso",
     "status": "down",
-    "uptime": "12.06%",
+    "uptime": "12.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 603,
+    "time": 604,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 675,
     "dailyMinutesDown": {
-      "2026-01-04": 71,
+      "2026-01-05": 70,
+      "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
@@ -775,8 +775,7 @@
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
-      "2025-01-06": 1440,
-      "2025-01-05": 1440
+      "2025-01-06": 1440
     }
   },
   {
@@ -785,7 +784,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ha.ashhhleyyy.dev.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "30.26%",
+    "uptime": "30.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -796,7 +795,8 @@
     "timeMonth": 0,
     "timeYear": 1452,
     "dailyMinutesDown": {
-      "2026-01-04": 71,
+      "2026-01-05": 70,
+      "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
@@ -1146,8 +1146,7 @@
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
-      "2025-01-06": 1440,
-      "2025-01-05": 1440
+      "2025-01-06": 1440
     }
   },
   {
@@ -1162,9 +1161,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 94,
-    "timeWeek": 106,
-    "timeMonth": 114,
+    "timeDay": 124,
+    "timeWeek": 110,
+    "timeMonth": 115,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2025-08-11": 12
