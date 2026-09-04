@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ashhhleyyy.dev.ico",
     "slug": "website-ashhhleyyy-dev",
     "status": "up",
-    "uptime": "95.22%",
+    "uptime": "95.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.80%",
-    "time": 1610,
-    "timeDay": 1518,
-    "timeWeek": 1450,
-    "timeMonth": 1232,
+    "time": 1612,
+    "timeDay": 1246,
+    "timeWeek": 1448,
+    "timeMonth": 1244,
     "timeYear": 1093,
     "dailyMinutesDown": {
       "2025-09-18": 16,
@@ -46,10 +46,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 706,
-    "timeDay": 704,
-    "timeWeek": 998,
-    "timeMonth": 733,
-    "timeYear": 694,
+    "timeDay": 659,
+    "timeWeek": 986,
+    "timeMonth": 730,
+    "timeYear": 693,
     "dailyMinutesDown": {
       "2026-06-03": 291,
       "2026-08-09": 26
@@ -67,9 +67,9 @@
     "uptimeMonth": "96.57%",
     "uptimeYear": "99.66%",
     "time": 664,
-    "timeDay": 433,
-    "timeWeek": 446,
-    "timeMonth": 445,
+    "timeDay": 436,
+    "timeWeek": 436,
+    "timeMonth": 443,
     "timeYear": 489,
     "dailyMinutesDown": {
       "2026-06-03": 286,
@@ -84,18 +84,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.ashhhleyyy.dev.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "69.82%",
+    "uptime": "69.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 598,
+    "time": 596,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-03": 132,
+      "2026-09-04": 128,
+      "2026-09-03": 1440,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -458,8 +459,7 @@
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
-      "2025-09-05": 1440,
-      "2025-09-04": 1440
+      "2025-09-05": 1440
     }
   },
   {
@@ -468,15 +468,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/maven.ashhhleyyy.dev.ico",
     "slug": "maven",
     "status": "up",
-    "uptime": "88.00%",
+    "uptime": "88.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.25%",
     "time": 938,
-    "timeDay": 814,
-    "timeWeek": 930,
-    "timeMonth": 893,
+    "timeDay": 775,
+    "timeWeek": 907,
+    "timeMonth": 884,
     "timeYear": 1019,
     "dailyMinutesDown": {
       "2025-09-18": 15,
@@ -503,13 +503,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 846,
+    "time": 849,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-03": 132,
+      "2026-09-04": 128,
+      "2026-09-03": 1440,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -872,8 +873,7 @@
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
-      "2025-09-05": 1440,
-      "2025-09-04": 1440
+      "2025-09-05": 1440
     }
   },
   {
@@ -882,7 +882,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ha.ashhhleyyy.dev.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "25.23%",
+    "uptime": "25.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -893,7 +893,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-03": 132,
+      "2026-09-04": 128,
+      "2026-09-03": 1440,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -1256,8 +1257,7 @@
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
-      "2025-09-05": 1440,
-      "2025-09-04": 1440
+      "2025-09-05": 1440
     }
   },
   {
@@ -1272,8 +1272,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 125,
-    "timeWeek": 126,
+    "timeDay": 127,
+    "timeWeek": 124,
     "timeMonth": 125,
     "timeYear": 121,
     "dailyMinutesDown": {}
