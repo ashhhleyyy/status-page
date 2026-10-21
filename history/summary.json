@@ -6,14 +6,14 @@
     "slug": "website-ashhhleyyy-dev",
     "status": "up",
     "uptime": "95.30%",
-    "uptimeDay": "0.70%",
+    "uptimeDay": "33.06%",
     "uptimeWeek": "81.09%",
     "uptimeMonth": "95.65%",
     "uptimeYear": "98.98%",
-    "time": 1613,
-    "timeDay": 1169,
-    "timeWeek": 1340,
-    "timeMonth": 1464,
+    "time": 1615,
+    "timeDay": 1665,
+    "timeWeek": 1328,
+    "timeMonth": 1467,
     "timeYear": 1149,
     "dailyMinutesDown": {
       "2025-10-22": 164,
@@ -42,11 +42,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 686,
-    "timeDay": 791,
-    "timeWeek": 673,
-    "timeMonth": 668,
-    "timeYear": 696,
+    "time": 685,
+    "timeDay": 486,
+    "timeWeek": 649,
+    "timeMonth": 633,
+    "timeYear": 694,
     "dailyMinutesDown": {
       "2026-06-03": 291,
       "2026-08-09": 26
@@ -64,9 +64,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 478,
-    "timeDay": 493,
-    "timeWeek": 439,
-    "timeMonth": 431,
+    "timeDay": 336,
+    "timeWeek": 424,
+    "timeMonth": 425,
     "timeYear": 489,
     "dailyMinutesDown": {
       "2026-06-03": 286,
@@ -81,18 +81,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.ashhhleyyy.dev.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "67.60%",
+    "uptime": "67.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 493,
-    "timeDay": 898,
-    "timeWeek": 457,
-    "timeMonth": 445,
-    "timeYear": 425,
+    "time": 488,
+    "timeDay": 307,
+    "timeWeek": 448,
+    "timeMonth": 441,
+    "timeYear": 422,
     "dailyMinutesDown": {
-      "2026-10-20": 1132,
+      "2026-10-21": 158,
+      "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
@@ -455,8 +456,7 @@
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
-      "2025-10-22": 1440,
-      "2025-10-21": 1440
+      "2025-10-22": 1440
     }
   },
   {
@@ -470,11 +470,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 984,
-    "timeDay": 887,
-    "timeWeek": 831,
-    "timeMonth": 966,
-    "timeYear": 1006,
+    "time": 986,
+    "timeDay": 1503,
+    "timeWeek": 928,
+    "timeMonth": 994,
+    "timeYear": 1008,
     "dailyMinutesDown": {
       "2025-10-22": 163,
       "2025-11-29": 34,
@@ -495,13 +495,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 629,
+    "time": 630,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-20": 1132,
+      "2026-10-21": 158,
+      "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
@@ -864,8 +865,7 @@
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
-      "2025-10-22": 1440,
-      "2025-10-21": 1440
+      "2025-10-22": 1440
     }
   },
   {
@@ -874,7 +874,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ha.ashhhleyyy.dev.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "24.43%",
+    "uptime": "24.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -885,7 +885,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-20": 1132,
+      "2026-10-21": 158,
+      "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
@@ -1248,8 +1249,7 @@
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
-      "2025-10-22": 1440,
-      "2025-10-21": 1440
+      "2025-10-22": 1440
     }
   },
   {
@@ -1264,9 +1264,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 142,
-    "timeWeek": 128,
-    "timeMonth": 122,
+    "timeDay": 92,
+    "timeWeek": 124,
+    "timeMonth": 120,
     "timeYear": 122,
     "dailyMinutesDown": {}
   }
