@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.65%",
     "uptimeYear": "99.01%",
-    "time": 1360,
-    "timeDay": 1519,
-    "timeWeek": 1482,
-    "timeMonth": 1585,
+    "time": 1305,
+    "timeDay": 1183,
+    "timeWeek": 1466,
+    "timeMonth": 1571,
     "timeYear": 1187,
     "dailyMinutesDown": {
       "2025-11-20": 1233,
@@ -41,10 +41,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 688,
-    "timeDay": 609,
-    "timeWeek": 713,
-    "timeMonth": 685,
+    "time": 687,
+    "timeDay": 505,
+    "timeWeek": 665,
+    "timeMonth": 677,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2026-06-03": 291,
@@ -63,9 +63,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 478,
-    "timeDay": 399,
-    "timeWeek": 438,
-    "timeMonth": 442,
+    "timeDay": 343,
+    "timeWeek": 416,
+    "timeMonth": 438,
     "timeYear": 488,
     "dailyMinutesDown": {
       "2026-06-03": 286,
@@ -80,18 +80,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.ashhhleyyy.dev.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "66.66%",
+    "uptime": "66.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 475,
-    "timeDay": 359,
-    "timeWeek": 400,
-    "timeMonth": 448,
-    "timeYear": 435,
+    "time": 472,
+    "timeDay": 281,
+    "timeWeek": 372,
+    "timeMonth": 443,
+    "timeYear": 432,
     "dailyMinutesDown": {
-      "2026-11-11": 233,
+      "2026-11-12": 300,
+      "2026-11-11": 1440,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
       "2026-11-08": 1440,
@@ -454,8 +455,7 @@
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
-      "2025-11-13": 1440,
-      "2025-11-12": 1440
+      "2025-11-13": 1440
     }
   },
   {
@@ -470,10 +470,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 1022,
-    "timeDay": 876,
-    "timeWeek": 1074,
-    "timeMonth": 1150,
-    "timeYear": 1017,
+    "timeDay": 641,
+    "timeWeek": 1004,
+    "timeMonth": 1143,
+    "timeYear": 1016,
     "dailyMinutesDown": {
       "2025-11-29": 34,
       "2026-03-05": 843,
@@ -488,18 +488,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.ashhhleyyy.dev.ico",
     "slug": "sso",
     "status": "down",
-    "uptime": "9.60%",
+    "uptime": "9.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 441,
+    "time": 442,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-11": 233,
+      "2026-11-12": 300,
+      "2026-11-11": 1440,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
       "2026-11-08": 1440,
@@ -862,8 +863,7 @@
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
-      "2025-11-13": 1440,
-      "2025-11-12": 1440
+      "2025-11-13": 1440
     }
   },
   {
@@ -872,7 +872,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ha.ashhhleyyy.dev.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "24.09%",
+    "uptime": "24.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -883,7 +883,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-11": 233,
+      "2026-11-12": 300,
+      "2026-11-11": 1440,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
       "2026-11-08": 1440,
@@ -1246,8 +1247,7 @@
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
-      "2025-11-13": 1440,
-      "2025-11-12": 1440
+      "2025-11-13": 1440
     }
   },
   {
@@ -1262,10 +1262,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 116,
-    "timeWeek": 129,
-    "timeMonth": 127,
-    "timeYear": 123,
+    "timeDay": 98,
+    "timeWeek": 119,
+    "timeMonth": 126,
+    "timeYear": 122,
     "dailyMinutesDown": {}
   }
 ]
